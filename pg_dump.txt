@@ -1,0 +1,4 @@
+<pg_dump_versions>
+10.1
+10.2
+</pg_dump_versions>
